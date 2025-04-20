@@ -22,4 +22,4 @@ git commit -m "lab answers posted by kshitij"
  git log --oneline
 2f13855 (HEAD -> BSCCSIT_Lab_Test, origin/BSCCSIT_Lab_Test) lab answers posted by kshitij
 fe07b04 (origin/main, origin/HEAD, main) Initial commit
-PS C:\Users\PC\Desktop\csit_lab\CSIT6th> git commit -m "second commit" 
+ git commit -m "second commit" 
