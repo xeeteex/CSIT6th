@@ -12,3 +12,14 @@ Switched to a new branch 'BSCCSIT_Lab_Test'
   git branch -v
 * BSCCSIT_Lab_Test fe07b04 Initial commit
   main             fe07b04 Initial commit
+
+ git add BSCCsit_Lab_Answers.txt      
+git commit -m "lab answers posted by kshitij"
+[BSCCSIT_Lab_Test 2f13855] lab answers posted by kshitij
+ 1 file changed, 14 insertions(+)
+ create mode 100644 BSCCsit_Lab_Answers.txt
+
+ git log --oneline
+2f13855 (HEAD -> BSCCSIT_Lab_Test, origin/BSCCSIT_Lab_Test) lab answers posted by kshitij
+fe07b04 (origin/main, origin/HEAD, main) Initial commit
+PS C:\Users\PC\Desktop\csit_lab\CSIT6th> git commit -m "second commit" 
