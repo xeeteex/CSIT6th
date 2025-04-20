@@ -1,0 +1,14 @@
+
+ git log --oneline
+fe07b04 (HEAD -> main, origin/main, origin/HEAD) Initial commit
+
+git checkout -b BSCCSIT_Lab_Test
+Switched to a new branch 'BSCCSIT_Lab_Test'
+
+ git branch
+* BSCCSIT_Lab_Test
+  main
+
+  git branch -v
+* BSCCSIT_Lab_Test fe07b04 Initial commit
+  main             fe07b04 Initial commit
